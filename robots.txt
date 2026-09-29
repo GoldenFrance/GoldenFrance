@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://GoldenFrance.github.io/GoldenFrance/sitemap.xml

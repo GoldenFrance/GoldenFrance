@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "金色髮國GoldenFrance專業造型",
+    "description": "",
+    "home_page_url": "https://GoldenFrance.github.io/GoldenFrance",
+    "feed_url": "https://GoldenFrance.github.io/GoldenFrance/feed.json",
+    "user_comment": "",
+    "icon": "https://GoldenFrance.github.io/GoldenFrance/media/website/Frame-1.png",
+    "author": {
+        "name": "Irene"
+    },
+    "items": [
+    ]
+}

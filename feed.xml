@@ -3,7 +3,7 @@
     <title>金色髮國GoldenFrance專業造型</title>
     <link href="https://GoldenFrance.github.io/GoldenFrance/feed.xml" rel="self" />
     <link href="https://GoldenFrance.github.io/GoldenFrance" />
-    <updated>2026-10-22T14:08:21+08:00</updated>
+    <updated>2026-10-22T14:12:14+08:00</updated>
     <author>
         <name>Golden France</name>
     </author>
@@ -39,9 +39,10 @@
 <figure class="post__video">
 <figure class="post__video"></figure>
 </figure>
-<div style="width: 100%; max-width: 800px; margin: 20px auto; text-align: center;"><video loading="lazy" style="display: block; width: 100%; max-width: 450px; aspect-ratio: 9/16; height: auto; min-height: 600px; margin: 0 auto; object-fit: contain; background: #000;" controls="controls" playsinline="" preload="metadata">
-    <source src="https://goldenfrance.github.io/GoldenFrance/media/files/聖誕系列影片.mp4" type="video/mp4">
-  </video></div>
+<div style="width: 100%; max-width: 800px; margin: 20px auto; text-align: center;">
+<figure class="post__video"><video loading="lazy" width="360" height="640" controls="controls" poster="">
+<source src="https://goldenfrance.github.io/GoldenFrance/media/files/%E8%81%96%E8%93%AE%E7%B3%BB%E5%88%97%E5%BD%B1%E7%89%87.mp4" type="video/mp4"></video></figure>
+</div>
 <h6>2040 聖蓮奢護精華</h6>
 <p>絲滑輕盈的精華質地，為日常保養補充滋潤，改善乾燥與細紋外觀，讓肌膚呈現柔滑、飽滿的光采。</p>
 <h6>2050 聖蓮奢護眼霜</h6>
